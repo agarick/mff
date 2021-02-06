@@ -1,5 +1,8 @@
 * mff
 
+- npgr003 (graphics) ::
+  - *[[gr][gr]]* - exercises
+
 - nprg005 (non-procedural) ::
   - *[[npp][npp]]* - exercises
   - *[[lambda][lambda]]* - lambda-calculus interpreter (prolog)
